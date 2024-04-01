@@ -25,5 +25,3 @@ To use the application, run the `main.py` file with the streamlit CLI (after hav
 ```
 streamlit run app.py
 ```
-## Resources
-- Omdena LocalChapter Link [here](https://omdena.com/chapter-challenges/developing-a-recommended-system-for-grocery-shopping-in-berlin/)
