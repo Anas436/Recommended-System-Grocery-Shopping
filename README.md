@@ -1,4 +1,4 @@
-# Recommended-System-Grocery-Shopping
+# Recommender-System-Grocery-Shopping
 
 
 ## The Problem
